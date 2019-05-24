@@ -24,6 +24,10 @@ A collection of drug discovery, classification and representation learning paper
     - Masashi Tsubaki, Kentaro Tomii, Jun Sese
     - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
     - [[Python Reference]](https://github.com/masashitsubaki/CPI_prediction)
+- **Accelerating Prototype-Based Drug Discovery using Conditional Diversity Networks (KDD 2018)**
+    - Shahar Harel, Kira Radinsky
+    - [[Paper]](http://www.kiraradinsky.com/files/accelerating-prototype-based.pdf)
+    - [[Python Reference]](https://github.com/shaharharel/CDN_Molecule)
 - **PADME: A Deep Learning-based Framework for Drug-Target Interaction Prediction (Arxiv 2018)**
     - Qingyuan Feng, Evgenia Dueva, Artem Cherkasov, Martin Ester
     - [[Paper]](https://arxiv.org/abs/1807.09741)
