@@ -5,6 +5,10 @@
 A collection of drug discovery, classification and representation learning papers with deep learning.
 
 ## Deep Learning
+- **LEARNING PROTEIN SEQUENCE EMBEDDINGS USING INFORMATION FROM STRUCTURE (ICLR 2019)**
+    - Tristan Bepler, Bonnie Berger
+    - [[Paper]](https://openreview.net/pdf?id=SygLehCqtm)
+    - [[Python Reference]](https://github.com/tbepler/protein-sequence-embedding-iclr2019)
 - **NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new drug–target interactions (Bioinformatics 2019)**
     - Fangping Wan, Lixiang Hong, An Xiao, Tao Jiang, Jianyang Zeng
     - [[Paper]](https://academic.oup.com/bioinformatics/article/35/1/104/5047760)
@@ -20,6 +24,10 @@ A collection of drug discovery, classification and representation learning paper
 - **Predicting Drug Protein Interaction using Quasi-Visual Question Answering System (bioRxiv 2019)**
     - Shuangjia Zheng, Yongjian Li, Sheng Chen, Jun Xu, Yuedong Yang
     - [[Paper]](https://www.biorxiv.org/content/10.1101/588178v1)
+- **Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules (ACS 2018)**
+    - Rafael Gómez-Bombarelli, Jennifer N. Wei, David Duvenaud
+    - [[Paper]](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00572)
+    - [[Python Reference]](https://github.com/aspuru-guzik-group/chemical_vae)
 - **Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences (Bioinformatics 2018)**
     - Masashi Tsubaki, Kentaro Tomii, Jun Sese
     - [[Paper]](https://academic.oup.com/bioinformatics/article/35/2/309/5050020)
@@ -42,6 +50,9 @@ A collection of drug discovery, classification and representation learning paper
 - **Graph Convolutional Neural Networks for Predicting Drug-Target Interactions (bioRxiv 2018)**
     - Wen Torng, Russ B. Altman
     - [[Paper]](https://www.biorxiv.org/content/10.1101/473074v1)
+- **druGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico (ACS 2017)**
+    - Artur Kadurin, Sergey Nikolenko, Kuzma Khrabrov
+    - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00346)
 - **Learning Graph-Level Representation for Drug Discovery (Arxiv 2017)**
     - Junying Li, Deng Cai, Xiaofei He
     - [[Paper]](https://arxiv.org/abs/1709.03741)
