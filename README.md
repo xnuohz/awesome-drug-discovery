@@ -70,3 +70,11 @@ A collection of drug discovery, classification and representation learning paper
 - **Boosting compound-protein interaction prediction by deep learning (2016)**
     - Kai Tian, Mingyu Shao, Yang Wang, Jihong Guan, Shuigeng Zhou
     - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1046202316301992)
+
+
+## Recommender Systems
+- **Neural Graph Collaborative Filtering (SIGIR 2019)**
+    - Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua
+    - [[Paper]](https://arxiv.org/abs/1905.08108)
+    - [[Python Reference]](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
+
