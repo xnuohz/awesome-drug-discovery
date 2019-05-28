@@ -50,7 +50,7 @@ A collection of drug discovery, classification and representation learning paper
 - **Graph Convolutional Neural Networks for Predicting Drug-Target Interactions (bioRxiv 2018)**
     - Wen Torng, Russ B. Altman
     - [[Paper]](https://www.biorxiv.org/content/10.1101/473074v1)
-- **druGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico (ACS 2017)**
+- **drugGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico (ACS 2017)**
     - Artur Kadurin, Sergey Nikolenko, Kuzma Khrabrov
     - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00346)
 - **Learning Graph-Level Representation for Drug Discovery (Arxiv 2017)**
@@ -77,4 +77,7 @@ A collection of drug discovery, classification and representation learning paper
     - Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua
     - [[Paper]](https://arxiv.org/abs/1905.08108)
     - [[Python Reference]](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
+- **Collaborative Similarity Embedding for Recommender Systems (WWW 2019)**
+    - Chih-Ming Chen, Chuan-Ju Wang, Ming-Feng Tsai, Yi-Hsuan Yang
+    - [[Paper]](https://arxiv.org/abs/1902.06188)
 
