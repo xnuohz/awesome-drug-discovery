@@ -50,6 +50,24 @@ A collection of drug discovery, classification and representation learning paper
 - **Graph Convolutional Neural Networks for Predicting Drug-Target Interactions (bioRxiv 2018)**
     - Wen Torng, Russ B. Altman
     - [[Paper]](https://www.biorxiv.org/content/10.1101/473074v1)
+- **Chemi-Net: A molecular graph convolutional network for accurate drug property prediction (Arxiv 2018)**
+    - Ke Liu, Xiangyan Sun, Lei Jia, Jun Ma, Haoming Xing, Junqiu Wu, Hua Gao, Yax Sun, Florian Boulnois, Jie Fan
+    - [[Paper]](https://arxiv.org/abs/1803.06236)
+- **CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations (CoRR 2018)**
+    - Arindam Paul, Dipendra Jha, Reda Al-Bahrani, Wei-keng Liao, Alok N. Choudhary, Ankit Agrawal
+    - [[Paper]](https://arxiv.org/abs/1811.08283)
+    - [[Python Reference]](https://github.com/paularindam/CheMixNet)
+- **Deep learning improves prediction of drug–drug and drug–food interactions (PNAS 2018)**
+    - Jae Yong Ryu, Hyun Uk Kim, and Sang Yup Lee
+    - [[Paper]](https://www.pnas.org/content/115/18/E4304.short)
+    - [[Python Reference]](https://bitbucket.org/kaistsystemsbiology/deepddi/src/master/)
+- **Machine learning of toxicological big data enables read-across structure activity relationships (RASAR) outperforming animal test reproducibility (Toxicological Sciences 2018)**
+    - Thomas Luechtefeld, Dan Marsh, Craig Rowlands, Thomas Hartung
+    - [[Paper]](https://academic.oup.com/toxsci/article/165/1/198/5043469)
+- **SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for Predicting Chemical Properties (Arxiv 2017)**
+    - Garrett B. Goh, Nathan O. Hodas, Charles Siegel, Abhinav Vishnu
+    - [[Paper]](https://arxiv.org/abs/1712.02034)
+    - [[Python Reference]](https://github.com/Abdulk084/Smiles2vec)
 - **drugGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico (ACS 2017)**
     - Artur Kadurin, Sergey Nikolenko, Kuzma Khrabrov
     - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00346)
@@ -60,6 +78,10 @@ A collection of drug discovery, classification and representation learning paper
 - **Deep-Learning-Based Drug–Target Interaction Prediction (ACS 2017)**
     - Ming Wen, Zhimin Zhang, Shaoyu Niu, Haozhi Sha, Ruihan Yang, Yonghuan Yun, Hongmei Lu
     - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00618)
+- **Machine learning accelerates MD-based binding (Bioinformatics 2017)**
+    - Kei Terayama, Hiroaki Iwata, Mitsugu Araki, Yasushi Okuno, Koji Tsuda
+    - [[Paper]](https://academic.oup.com/bioinformatics/article/34/5/770/4457357)
+    - [[Python Reference]](https://github.com/tsudalab/bpbi)
 - **Deep learning with feature embedding for compound-protein interaction prediction (bioRxiv 2016)**
     - Fangping Wan, Jianyang (Michael) Zeng
     - [[Paper]](https://www.biorxiv.org/content/10.1101/086033v1)
@@ -70,6 +92,27 @@ A collection of drug discovery, classification and representation learning paper
 - **Boosting compound-protein interaction prediction by deep learning (2016)**
     - Kai Tian, Mingyu Shao, Yang Wang, Jihong Guan, Shuigeng Zhou
     - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1046202316301992)
+- **Boosting Docking-based Virtual Screening with Deep Learning (ACS 2016)**
+    - Janaina Cruz Pereira, Ernesto Raúl Caffarena, Cicero Nogueira dos Santos
+    - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.6b00355)
+- **Massively Multitask Networks for Drug Discovery (CoRR 2015)**
+    - Bharath Ramsundar, Steven M. Kearnes, Patrick Riley, Dale Webster, David E. Konerding, Vijay S. Pande
+    - [[Paper]](https://arxiv.org/abs/1502.02072)
+- **Deep Neural Nets as a Method for Quantitative Structure−Activity Relationships (ACS 2015)**
+    - Junshui Ma, Robert P. Sheridan, Andy Liaw, George E. Dahl, Vladimir Svetnik
+    - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/ci500747n)
+- **Toxicity Prediction using Deep Learning (Arxiv 2015)**
+    - Thomas Unterthiner
+    - [[Paper]](https://arxiv.org/abs/1503.01445)
+- **Multi-Task Deep Networks for Drug Target Prediction (NIPS 2014)**
+    - Thomas Unterthiner, AndreasMayr, G¨unterKlambauer
+    - [[Paper]](http://www.bioinf.at/publications/2014/NIPS2014d.pdf)
+- **Multi-task Neural Networks for QSAR Predictions (Arxiv 2014)**
+    - George E. Dahl, Navdeep Jaitly, Ruslan Salakhutdinov
+    - [[Paper]](https://arxiv.org/abs/1406.1231)
+- **Deep Learning as an Opportunity in Virtual Screening (2014)**
+    - Thomas Unterthiner
+    - [[Paper]](https://pdfs.semanticscholar.org/95f7/b2c0fe75f08e3ce0d2ac4315166f4239db5c.pdf)
 
 
 ## Recommender Systems
@@ -80,4 +123,3 @@ A collection of drug discovery, classification and representation learning paper
 - **Collaborative Similarity Embedding for Recommender Systems (WWW 2019)**
     - Chih-Ming Chen, Chuan-Ju Wang, Ming-Feng Tsai, Yi-Hsuan Yang
     - [[Paper]](https://arxiv.org/abs/1902.06188)
-
