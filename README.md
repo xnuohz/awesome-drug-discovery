@@ -5,6 +5,10 @@
 A collection of drug discovery, classification and representation learning papers with deep learning.
 
 ## Deep Learning
+- **Evaluation of network architecture and data augmentation methods for deep learning in chemogenomics (bioRxiv 2019)**
+    - Benoit Playe, Véronique Stoven
+    - [[Paper]](https://www.biorxiv.org/content/10.1101/662098v1)
+    - [[Python Reference]](https://github.com/bplaye/NNk_DTI)
 - **LEARNING PROTEIN SEQUENCE EMBEDDINGS USING INFORMATION FROM STRUCTURE (ICLR 2019)**
     - Tristan Bepler, Bonnie Berger
     - [[Paper]](https://openreview.net/pdf?id=SygLehCqtm)
@@ -40,7 +44,7 @@ A collection of drug discovery, classification and representation learning paper
     - Qingyuan Feng, Evgenia Dueva, Artem Cherkasov, Martin Ester
     - [[Paper]](https://arxiv.org/abs/1807.09741)
     - [[Python Reference]](https://github.com/simonfqy/PADME)
-- **DeepDTA: deep drug–target binding affinity prediction ((Bioinformatics 2018))**
+- **DeepDTA: deep drug–target binding affinity prediction (Bioinformatics 2018)**
     - Hakime Öztürk, Arzucan Özgür, Elif Ozkirimli
     - [[Paper]](https://academic.oup.com/bioinformatics/article/34/17/i821/5093245)
     - [[Python Reference]](https://github.com/hkmztrk/DeepDTA)
