@@ -4,7 +4,15 @@
 
 A collection of drug discovery, classification and representation learning papers with deep learning.
 
+## Tutorial
+
+- [torch_geometric for chemoinformatics](https://iwatobipen.wordpress.com/2019/04/05/make-graph-convolution-model-with-geometric-deep-learning-extension-library-for-pytorch-rdkit-chemoinformatics-pytorch/)
+
 ## Deep Learning
+- **Attention-based Multi-Input Deep Learning Architecture for Biological Activity Prediction: An Application in EGFR Inhibitors (Arxiv 2019)**
+    - Huy Ngoc Pham, Trung Hoang Le
+    - [[Paper]](https://arxiv.org/abs/1906.05168)
+    - [[Python Reference]](https://github.com/lehgtrung/egfr-att)
 - **Evaluation of network architecture and data augmentation methods for deep learning in chemogenomics (bioRxiv 2019)**
     - Benoit Playe, Véronique Stoven
     - [[Paper]](https://www.biorxiv.org/content/10.1101/662098v1)
@@ -28,6 +36,9 @@ A collection of drug discovery, classification and representation learning paper
 - **Predicting Drug Protein Interaction using Quasi-Visual Question Answering System (bioRxiv 2019)**
     - Shuangjia Zheng, Yongjian Li, Sheng Chen, Jun Xu, Yuedong Yang
     - [[Paper]](https://www.biorxiv.org/content/10.1101/588178v1)
+- **Drug2Vec: Knowledge-aware Feature-driven Method for Drug Representation Learning (BIBM 2018)**
+    - Ying Shen, Kaiqi Yuan, Yaliang Li, Buzhou Tang, Min Yang, Nan Du, Kai Lei
+    - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8621390)
 - **Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules (ACS 2018)**
     - Rafael Gómez-Bombarelli, Jennifer N. Wei, David Duvenaud
     - [[Paper]](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00572)
