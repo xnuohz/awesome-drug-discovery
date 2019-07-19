@@ -8,15 +8,25 @@ A collection of drug discovery, classification and representation learning paper
 
 - [torch_geometric for chemoinformatics](https://iwatobipen.wordpress.com/2019/04/05/make-graph-convolution-model-with-geometric-deep-learning-extension-library-for-pytorch-rdkit-chemoinformatics-pytorch/)
 
-## Deep Learning
-- **Attention-based Multi-Input Deep Learning Architecture for Biological Activity Prediction: An Application in EGFR Inhibitors (Arxiv 2019)**
-    - Huy Ngoc Pham, Trung Hoang Le
-    - [[Paper]](https://arxiv.org/abs/1906.05168)
-    - [[Python Reference]](https://github.com/lehgtrung/egfr-att)
+## Survey
 - **Evaluation of network architecture and data augmentation methods for deep learning in chemogenomics (bioRxiv 2019)**
     - Benoit Playe, Véronique Stoven
     - [[Paper]](https://www.biorxiv.org/content/10.1101/662098v1)
     - [[Python Reference]](https://github.com/bplaye/NNk_DTI)
+- **PADME: A Deep Learning-based Framework for Drug-Target Interaction Prediction (Arxiv 2018)**
+    - Qingyuan Feng, Evgenia Dueva, Artem Cherkasov, Martin Ester
+    - [[Paper]](https://arxiv.org/abs/1807.09741)
+    - [[Python Reference]](https://github.com/simonfqy/PADME)
+
+## Deep Learning
+- **Multifaceted protein–protein interaction prediction based on Siamese residual RCNN (ISMB/ECCB 2019)**
+    - Muhao Chen1, Chelsea J.-T. Ju, Guangyu Zhou, Xuelu Chen, Tianran Zhang, Kai-Wei Chang, Carlo Zaniolo and Wei Wang
+    - [[Paper]](https://academic.oup.com/bioinformatics/article/35/14/i305/5529260)
+    - [[Python Reference]](https://github.com/muhaochen/seq_ppi)
+- **Attention-based Multi-Input Deep Learning Architecture for Biological Activity Prediction: An Application in EGFR Inhibitors (Arxiv 2019)**
+    - Huy Ngoc Pham, Trung Hoang Le
+    - [[Paper]](https://arxiv.org/abs/1906.05168)
+    - [[Python Reference]](https://github.com/lehgtrung/egfr-att)
 - **LEARNING PROTEIN SEQUENCE EMBEDDINGS USING INFORMATION FROM STRUCTURE (ICLR 2019)**
     - Tristan Bepler, Bonnie Berger
     - [[Paper]](https://openreview.net/pdf?id=SygLehCqtm)
@@ -51,10 +61,6 @@ A collection of drug discovery, classification and representation learning paper
     - Shahar Harel, Kira Radinsky
     - [[Paper]](http://www.kiraradinsky.com/files/accelerating-prototype-based.pdf)
     - [[Python Reference]](https://github.com/shaharharel/CDN_Molecule)
-- **PADME: A Deep Learning-based Framework for Drug-Target Interaction Prediction (Arxiv 2018)**
-    - Qingyuan Feng, Evgenia Dueva, Artem Cherkasov, Martin Ester
-    - [[Paper]](https://arxiv.org/abs/1807.09741)
-    - [[Python Reference]](https://github.com/simonfqy/PADME)
 - **DeepDTA: deep drug–target binding affinity prediction (Bioinformatics 2018)**
     - Hakime Öztürk, Arzucan Özgür, Elif Ozkirimli
     - [[Paper]](https://academic.oup.com/bioinformatics/article/34/17/i821/5093245)
@@ -129,7 +135,6 @@ A collection of drug discovery, classification and representation learning paper
     - Thomas Unterthiner
     - [[Paper]](https://pdfs.semanticscholar.org/95f7/b2c0fe75f08e3ce0d2ac4315166f4239db5c.pdf)
 
-
 ## Recommender Systems
 - **Neural Graph Collaborative Filtering (SIGIR 2019)**
     - Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua
@@ -138,3 +143,9 @@ A collection of drug discovery, classification and representation learning paper
 - **Collaborative Similarity Embedding for Recommender Systems (WWW 2019)**
     - Chih-Ming Chen, Chuan-Ju Wang, Ming-Feng Tsai, Yi-Hsuan Yang
     - [[Paper]](https://arxiv.org/abs/1902.06188)
+
+## Others
+- **A Degeneracy Framework for Graph Similarity (IJCAI 2018)**
+    - Giannis Nikolentzos, Polykarpos Meladianos, Stratis Limnios and Michalis Vazirgiannis
+    - [[Paper]](https://www.ijcai.org/proceedings/2018/360)
+    - [[Python Reference]](https://github.com/xnuohz/graph-kernel)
