@@ -149,3 +149,7 @@ A collection of drug discovery, classification and representation learning paper
     - Giannis Nikolentzos, Polykarpos Meladianos, Stratis Limnios and Michalis Vazirgiannis
     - [[Paper]](https://www.ijcai.org/proceedings/2018/360)
     - [[Python Reference]](https://github.com/xnuohz/graph-kernel)
+- **Fast Graph Representation Learning with Pytorch Geometric (ICLR 2019)**
+    - Matthias Fey, Jan E. Lenssen
+    - [[Paper]](https://rlgm.github.io/papers/2.pdf)
+    - [[Python Reference]](https://rusty1s.github.io/pytorch_geometric)
