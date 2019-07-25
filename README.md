@@ -153,3 +153,8 @@ A collection of drug discovery, classification and representation learning paper
     - Matthias Fey, Jan E. Lenssen
     - [[Paper]](https://rlgm.github.io/papers/2.pdf)
     - [[Python Reference]](https://rusty1s.github.io/pytorch_geometric)
+- **GMNN: Graph Markov Neural Networks (ICML 2019)**
+    - Meng Qu, Yoshua Bengio, Jian Tang
+    - [[Paper]](http://proceedings.mlr.press/v97/qu19a/qu19a.pdf)
+    - [[Slides]](https://icml.cc/media/Slides/icml/2019/halla(11-11-00)-11-12-00-4516-gmnn_graph_mar.pdf)
+    - [[Python Reference]](https://github.com/DeepGraphLearning/GMNN)
