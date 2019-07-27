@@ -9,6 +9,7 @@ A collection of drug discovery, classification and representation learning paper
 - [torch_geometric for chemoinformatics](https://iwatobipen.wordpress.com/2019/04/05/make-graph-convolution-model-with-geometric-deep-learning-extension-library-for-pytorch-rdkit-chemoinformatics-pytorch/)
 
 ## Survey
+
 - **Evaluation of network architecture and data augmentation methods for deep learning in chemogenomics (bioRxiv 2019)**
     - Benoit Playe, Véronique Stoven
     - [[Paper]](https://www.biorxiv.org/content/10.1101/662098v1)
@@ -18,7 +19,16 @@ A collection of drug discovery, classification and representation learning paper
     - [[Paper]](https://arxiv.org/abs/1807.09741)
     - [[Python Reference]](https://github.com/simonfqy/PADME)
 
+
+## Tradintional Machine Learning
+
+- **Drug repositioning based on bounded nuclear norm regularization (ISMB/ECCB 2019)**
+    - Mengyun Yang, Huimin Luo, Yaohang Li and Jianxin Wang
+    - [[Paper]](https://academic.oup.com/bioinformatics/article/35/14/i455/5529141)
+    - [[Matlab Reference]](https://github.com/BioinformaticsCSU/BNNR)
+
 ## Deep Learning
+
 - **Multifaceted protein–protein interaction prediction based on Siamese residual RCNN (ISMB/ECCB 2019)**
     - Muhao Chen1, Chelsea J.-T. Ju, Guangyu Zhou, Xuelu Chen, Tianran Zhang, Kai-Wei Chang, Carlo Zaniolo and Wei Wang
     - [[Paper]](https://academic.oup.com/bioinformatics/article/35/14/i305/5529260)
@@ -136,6 +146,7 @@ A collection of drug discovery, classification and representation learning paper
     - [[Paper]](https://pdfs.semanticscholar.org/95f7/b2c0fe75f08e3ce0d2ac4315166f4239db5c.pdf)
 
 ## Recommender Systems
+
 - **Neural Graph Collaborative Filtering (SIGIR 2019)**
     - Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua
     - [[Paper]](https://arxiv.org/abs/1905.08108)
@@ -145,6 +156,7 @@ A collection of drug discovery, classification and representation learning paper
     - [[Paper]](https://arxiv.org/abs/1902.06188)
 
 ## Others
+
 - **A Degeneracy Framework for Graph Similarity (IJCAI 2018)**
     - Giannis Nikolentzos, Polykarpos Meladianos, Stratis Limnios and Michalis Vazirgiannis
     - [[Paper]](https://www.ijcai.org/proceedings/2018/360)
