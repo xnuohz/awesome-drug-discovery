@@ -170,3 +170,7 @@ A collection of drug discovery, classification and representation learning paper
     - [[Paper]](http://proceedings.mlr.press/v97/qu19a/qu19a.pdf)
     - [[Slides]](https://icml.cc/media/Slides/icml/2019/halla(11-11-00)-11-12-00-4516-gmnn_graph_mar.pdf)
     - [[Python Reference]](https://github.com/DeepGraphLearning/GMNN)
+- **Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches (RecSys 2019)**
+    - Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach
+    - [[Paper]](https://arxiv.org/pdf/1907.06902v2.pdf)
+    - [[Python Reference]](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)
