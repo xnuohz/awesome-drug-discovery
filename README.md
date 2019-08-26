@@ -29,6 +29,13 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **GraphDTA: prediction of drug–target binding afﬁnity using graph convolutional networks (BioArxiv 2019)**
+    - Thin Nguyen, Hang Le, Svetha Venkatesh
+    - [[Paper]](https://www.biorxiv.org/content/10.1101/684662v3)
+    - [[Python Reference]](https://github.com/thinng/GraphDTA)
+- **Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction (2019)**
+    - Bonggun Shin
+    - [[Paper]](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5d472f63eebdc3000174efea/1564946292553/Shin.pdf)
 - **Multifaceted protein–protein interaction prediction based on Siamese residual RCNN (ISMB/ECCB 2019)**
     - Muhao Chen1, Chelsea J.-T. Ju, Guangyu Zhou, Xuelu Chen, Tianran Zhang, Kai-Wei Chang, Carlo Zaniolo and Wei Wang
     - [[Paper]](https://academic.oup.com/bioinformatics/article/35/14/i305/5529260)
