@@ -161,6 +161,11 @@ A collection of drug discovery, classification and representation learning paper
 - **Collaborative Similarity Embedding for Recommender Systems (WWW 2019)**
     - Chih-Ming Chen, Chuan-Ju Wang, Ming-Feng Tsai, Yi-Hsuan Yang
     - [[Paper]](https://arxiv.org/abs/1902.06188)
+- **Neural Collaborative Filtering (WWW 2017)**
+    - Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua
+    - [[Paper]](https://arxiv.org/abs/1708.05031)
+    - [[Python Reference(Keras)]](https://github.com/hexiangnan/neural_collaborative_filtering)
+    - [[Python Reference(Pytorch)]](https://github.com/LaceyChen17/neural-collaborative-filtering)
 
 ## Others
 
