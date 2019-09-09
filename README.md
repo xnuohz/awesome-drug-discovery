@@ -29,6 +29,10 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism (Journal of Medicinal Chemistry 2019)**
+    - Zhaoping Xiong, Dingyan Wang, Xiaohong Liu, Feisheng Zhong, Xiaozhe Wan, Xutong Li, Zhaojun Li, Xiaomin Luo, Kaixian Chen, Hualiang Jiang and Mingyue Zheng
+    - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00959)
+    - [[Python Reference]](https://github.com/OpenDrugAI/AttentiveFP)
 - **GraphDTA: prediction of drug–target binding afﬁnity using graph convolutional networks (BioArxiv 2019)**
     - Thin Nguyen, Hang Le, Svetha Venkatesh
     - [[Paper]](https://www.biorxiv.org/content/10.1101/684662v3)
