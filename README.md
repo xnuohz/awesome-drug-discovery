@@ -168,7 +168,10 @@ A collection of drug discovery, classification and representation learning paper
 - **Variational Autoencoders for Collaborative Filtering (WWW 2018)**
     - Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman, Tony Jebara
     - [[Paper]](https://arxiv.org/abs/1802.05814)
-    - [[Python Reference]](https://github.com/dawenl/vae_cf)
+- **TEM: Tree-enhancedEmbeddingModelfor ExplainableRecommendation  (WWW 2018)**
+    - Xiang Wang, Xiangnan He, Fuli Feng, Liqiang Nie and Tat-Seng Chua
+    - [[Paper]](http://staff.ustc.edu.cn/~hexn/papers/www18-tem.pdf)
+    - [[Python Reference]](https://github.com/xiangwang1223/tree_enhanced_embedding_model)
 - **Neural Collaborative Filtering (WWW 2017)**
     - Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua
     - [[Paper]](https://arxiv.org/abs/1708.05031)
