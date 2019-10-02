@@ -29,6 +29,9 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **A Domain Knowledge Constraint Variantional Model for Drug Discovery (AAAI 2020 preprint review)**
+- **DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Afﬁnity Prediction (AAAI 2020 preprint review)**
+- **DAEM: Deep Attribute Embedding based Multi-Task Learning for Predicting Adverse Drug-Drug Interaction (AAAI 2020 preprint review)**
 - **Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism (Journal of Medicinal Chemistry 2019)**
     - Zhaoping Xiong, Dingyan Wang, Xiaohong Liu, Feisheng Zhong, Xiaozhe Wan, Xutong Li, Zhaojun Li, Xiaomin Luo, Kaixian Chen, Hualiang Jiang and Mingyue Zheng
     - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00959)
