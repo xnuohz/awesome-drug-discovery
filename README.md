@@ -29,6 +29,10 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences (PLOS 2019)**
+    - Ingoo LeeID, Jongsoo Keum, Hojung NamID
+    - [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007129)
+    - [[Python Reference]](https://github.com/GIST-CSBL/DeepConv-DTI)
 - **A Domain Knowledge Constraint Variantional Model for Drug Discovery (AAAI 2020 preprint review)**
 - **DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Afﬁnity Prediction (AAAI 2020 preprint review)**
 - **DAEM: Deep Attribute Embedding based Multi-Task Learning for Predicting Adverse Drug-Drug Interaction (AAAI 2020 preprint review)**
