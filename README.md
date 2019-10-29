@@ -167,7 +167,7 @@ A collection of drug discovery, classification and representation learning paper
 
 - **AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks (CIKM 2019)**
     - Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang, Jian Tang
-    - [[Paper]](https://arxiv.org/abs/1810.119219)
+    - [[Paper]](https://arxiv.org/abs/1810.11921)
     - [[Python Reference1]](https://github.com/DeepGraphLearning/RecommenderSystems)
     - [[Python Reference2]](https://github.com/shenweichen/DeepCTR-Torch)
 - **Neural Graph Collaborative Filtering (SIGIR 2019)**
