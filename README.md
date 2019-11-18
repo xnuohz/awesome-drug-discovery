@@ -165,6 +165,10 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Recommender Systems
 
+- **SoRecGAT: Leveraging Graph Attention Mechanism for Top-N Social Recommendation (ECML 2019)**
+    - Vijaikumar M, Shirish Shevade, and M N Murt
+    - [[Paper]](https://ecmlpkdd2019.org/downloads/paper/475.pdf)
+    - [[Python Reference]](https://github.com/mvijaikumar/SoRecGAT)
 - **AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks (CIKM 2019)**
     - Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang, Jian Tang
     - [[Paper]](https://arxiv.org/abs/1810.11921)
