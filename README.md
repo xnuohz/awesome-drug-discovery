@@ -29,6 +29,10 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **DeepChemStable: Chemical Stability Prediction with an Attention-Based Graph Convolution Network (ACS 2019)**
+    - Xiuming Li, Xin Yan, Qiong Gu, Huihao Zhou, Di Wu and Jun Xu 
+    - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00672)
+    - [[Python Reference]](https://github.com/MingCPU/DeepChemStable)
 - **DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences (PLOS 2019)**
     - Ingoo LeeID, Jongsoo Keum, Hojung NamID
     - [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007129)
