@@ -29,8 +29,12 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **Predicting Drug−Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation (ACS 2019)**
+    - Jaechang Lim, Seongok Ryu, Kyubyong Park, Yo Joong Choe, Jiyeon Ham and Woo Youn Kim
+    - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00387)
+    - [[Python Reference]](https://github.com/jaechanglim/GNN_DTI)
 - **DeepChemStable: Chemical Stability Prediction with an Attention-Based Graph Convolution Network (ACS 2019)**
-    - Xiuming Li, Xin Yan, Qiong Gu, Huihao Zhou, Di Wu and Jun Xu 
+    - Xiuming Li, Xin Yan, Qiong Gu, Huihao Zhou, Di Wu and Jun Xu
     - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00672)
     - [[Python Reference]](https://github.com/MingCPU/DeepChemStable)
 - **DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences (PLOS 2019)**
