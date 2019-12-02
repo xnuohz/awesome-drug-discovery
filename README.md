@@ -121,6 +121,10 @@ A collection of drug discovery, classification and representation learning paper
 - **Machine learning of toxicological big data enables read-across structure activity relationships (RASAR) outperforming animal test reproducibility (Toxicological Sciences 2018)**
     - Thomas Luechtefeld, Dan Marsh, Craig Rowlands, Thomas Hartung
     - [[Paper]](https://academic.oup.com/toxsci/article/165/1/198/5043469)
+- **A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information (nature communications 2017)**
+    - Yunan Luo, Xinbin Zhao, Jingtian Zhou, Jinglin Yang, Yanqing Zhang, Wenhua Kuang, Jian Peng, Ligong Chen and Jianyang Zeng 
+    - [[Paper]](https://www.nature.com/articles/s41467-017-00680-8)
+    - [[Python Reference]](https://github.com/luoyunan/DTINet)
 - **SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for Predicting Chemical Properties (Arxiv 2017)**
     - Garrett B. Goh, Nathan O. Hodas, Charles Siegel, Abhinav Vishnu
     - [[Paper]](https://arxiv.org/abs/1712.02034)
