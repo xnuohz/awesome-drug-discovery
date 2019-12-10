@@ -29,6 +29,11 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **Evaluating Protein Transfer Learning with TAPE (NIPS 2019)**
+    - Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song
+    - [[Paper]](https://arxiv.org/abs/1906.08230)
+    - [[Python Reference(pytorch)]](https://github.com/songlab-cal/tape)
+    - [[Python Reference(tensorflow)]](https://github.com/songlab-cal/tape-neurips2019)
 - **Predicting Drug−Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation (ACS 2019)**
     - Jaechang Lim, Seongok Ryu, Kyubyong Park, Yo Joong Choe, Jiyeon Ham and Woo Youn Kim
     - [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00387)
