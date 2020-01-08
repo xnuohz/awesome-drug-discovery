@@ -29,6 +29,10 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Deep Learning
 
+- **MONN: a Multi-Objective Neural Network for Predicting Pairwise Non-Covalent Interactions and Binding Affinities between Compounds and Proteins (RECOMB 2020)**
+    - Shuya Li, Fangping Wan, Hantao Shu, Tao Jiang, Dan Zhao, Jianyang Zeng
+    - [[Paper]](https://www.biorxiv.org/content/10.1101/2019.12.30.891515v1)
+    - [[Python Reference]](https://github.com/lishuya17/MONN)
 - **Evaluating Protein Transfer Learning with TAPE (NIPS 2019)**
     - Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song
     - [[Paper]](https://arxiv.org/abs/1906.08230)
