@@ -10,6 +10,10 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Survey
 
+- **Applications of machine learning in drug discovery and development (Nature Reviews drug discovery 2019)**
+    - Jessica Vamathevan, Dominic Clark, Paul Czodrowski, Ian Dunham, Edgardo Ferran, George Lee, Bin Li, Anant Madabhushi, Parantu Shah, Michaela Spitzer & Shanrong Zhao
+    - [[Paper(nature)]](https://www.nature.com/articles/s41573-019-0024-5)
+    - [[Paper(sci-hub)]](https://sci-hub.tw/10.1038/s41573-019-0024-5)
 - **Evaluation of network architecture and data augmentation methods for deep learning in chemogenomics (bioRxiv 2019)**
     - Benoit Playe, Véronique Stoven
     - [[Paper]](https://www.biorxiv.org/content/10.1101/662098v1)
@@ -22,6 +26,9 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Tradintional Machine Learning
 
+- **A Bayesian machine learning approach for drug target identification using diverse data types (Nature Communications 2019)**
+    - Neel S. Madhukar, Prashant K. Khade, Linda Huang, Kaitlyn Gayvert, Giuseppe Galletti, Martin Stogniew, Joshua E. Allen, Paraskevi Giannakakou & Olivier Elemento 
+    - [[Paper]](https://www.nature.com/articles/s41467-019-12928-6)
 - **Drug repositioning based on bounded nuclear norm regularization (ISMB/ECCB 2019)**
     - Mengyun Yang, Huimin Luo, Yaohang Li and Jianxin Wang
     - [[Paper]](https://academic.oup.com/bioinformatics/article/35/14/i455/5529141)
