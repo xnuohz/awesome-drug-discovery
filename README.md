@@ -155,6 +155,7 @@ A collection of drug discovery, classification and representation learning paper
 - **Deep-Learning-Based Drug–Target Interaction Prediction (ACS 2017)**
     - Ming Wen, Zhimin Zhang, Shaoyu Niu, Haozhi Sha, Ruihan Yang, Yonghuan Yun, Hongmei Lu
     - [[Paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00618)
+    - [[Python Reference]](https://github.com/Bjoux2/DeepDTIs_DBN)
 - **Machine learning accelerates MD-based binding (Bioinformatics 2017)**
     - Kei Terayama, Hiroaki Iwata, Mitsugu Araki, Yasushi Okuno, Koji Tsuda
     - [[Paper]](https://academic.oup.com/bioinformatics/article/34/5/770/4457357)
