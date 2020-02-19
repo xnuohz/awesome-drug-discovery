@@ -18,6 +18,9 @@ A collection of drug discovery, classification and representation learning paper
     - Benoit Playe, Véronique Stoven
     - [[Paper]](https://www.biorxiv.org/content/10.1101/662098v1)
     - [[Python Reference]](https://github.com/bplaye/NNk_DTI)
+- **Large-scale comparison of machine learning methods for drug target prediction on ChEMBL (Chemical Science 2019)**
+    -  Andreas Mayr et.
+    - [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2018/sc/c8sc00148k#!divAbstract)
 - **PADME: A Deep Learning-based Framework for Drug-Target Interaction Prediction (Arxiv 2018)**
     - Qingyuan Feng, Evgenia Dueva, Artem Cherkasov, Martin Ester
     - [[Paper]](https://arxiv.org/abs/1807.09741)
@@ -194,6 +197,10 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Recommender Systems
 
+- **Multi-Component Graph Convolutional Collaborative Filtering (AAAI 2020)**
+    - Xiao Wang, Ruijia Wang, Chuan Shi, Guojie Song, Qingyong Li
+    - [[Paper]](https://arxiv.org/abs/1911.10699)
+    - [[Python Reference]](https://github.com/RuijiaW/Multi-Component-Graph-Convolutional-Collaborative-Filtering)
 - **SoRecGAT: Leveraging Graph Attention Mechanism for Top-N Social Recommendation (ECML 2019)**
     - Vijaikumar M, Shirish Shevade, and M N Murt
     - [[Paper]](https://ecmlpkdd2019.org/downloads/paper/475.pdf)
