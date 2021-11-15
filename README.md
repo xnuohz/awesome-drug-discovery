@@ -232,6 +232,9 @@ A collection of drug discovery, classification and representation learning paper
 
 ## Others
 
+- **Drug discovery with explainable artificial intelligence**
+    - José Jiménez-Luna, Francesca Grisoni & Gisbert Schneider
+    - [[Paper]](https://www.nature.com/articles/s42256-020-00236-4)
 - **A Degeneracy Framework for Graph Similarity (IJCAI 2018)**
     - Giannis Nikolentzos, Polykarpos Meladianos, Stratis Limnios and Michalis Vazirgiannis
     - [[Paper]](https://www.ijcai.org/proceedings/2018/360)
